@@ -40,5 +40,5 @@ This will install the dependencies;
 
 ## 📄 License
 
-This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+This project is under the MIT license. See the [LICENSE](license) file for more details.
 <br />
