@@ -3,6 +3,8 @@
 ## 💻 Project
 ReactGram, the final project carried out by Professor Matheus Battisti's React course from [Hora de Codar](https://www.horadecodar.com.br/), which I was able to learn a lot about React, in addition to using MongoDB in the backend.
 
+![](./reactgram.png)
+
 ## ✨ Technologies used
 - React 
 - MongoDB
